@@ -1,7 +1,7 @@
-=== Delivery Notes ===
+=== Jigoshop green tax ===
 
 == Description ==
-Extends JigoShop providing a greentax option under product price management displayed in the product details .
+Extends JigoShop providing a greentax option under product price management displayed in the product details.
 
 == Installation ==
 
@@ -18,3 +18,4 @@ Extends JigoShop providing a greentax option under product price management disp
 
 == Documentation ==
 
+You might need some customization on your product page to match the style.
