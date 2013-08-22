@@ -1,21 +1,20 @@
-=== Jigoshop green tax ===
+# Jigoshop green tax
 
-== Description ==
+### Description
 Extends JigoShop providing a greentax option under product price management displayed in the product details.
 
-== Installation ==
-
-= Install =
+### Installation
+#### Install
 
 1. Unzip the `jigoshop-green-tax.zip` file. 
 1. Upload the the `jigoshop-green-tax` folder (not just the files in it!) to your `wp-contents/plugins` folder.
 
-= Activate =
+#### Activate
 
 1. In your WordPress administration, go to the Plugins page
 2. Activate the Jigoshop - Green tax plugin and a Delivery Note Settings menu will appear
    in your Orders menu.
 
-== Documentation ==
+#### Documentation
 
 You might need some customization on your product page to match the style.
